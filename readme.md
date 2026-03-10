@@ -114,6 +114,12 @@
 
 ## This method directly computes the regression line without iterative training.
 
+# Closed Form Linear Regression Visualization
+
+## The following figure shows the regression line learned using the closed form solution.
+
+![Closed Form Linear Regression](linear_regression_closedform/linear_regression_plot_closedform.png)
+
 # Gradient Descent Linear Regression
 
 ## Gradient Descent is an optimization algorithm used to minimize the error of the model.
@@ -171,6 +177,12 @@
 ## In these equations α represents the learning rate.
 
 ## The learning rate controls the step size during optimization.
+
+# Gradient Descent Linear Regression Visualization
+
+## The following figure shows the regression line learned using gradient descent optimization.
+
+![Gradient Descent Linear Regression](linear_regression_gradientdescent/gradient_descent_regression.png)
 
 # Machine Learning Pipeline
 
